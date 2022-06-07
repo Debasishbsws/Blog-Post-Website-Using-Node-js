@@ -22,7 +22,7 @@ This Blog Post Website made following Udemy Courses
 
 - There is also Contact and About page with Random shit with EJS content .
 
-![Home page](images/home.png?raw=true "Title")
+![Home page](https://github.com/debasishbsws/Blog-Post-Website-Using-Node-js/blob/main/images/home.png?raw=true "Title")
 
   
   
@@ -33,7 +33,7 @@ This is hidden page to publish a new posts into the website.
 To access it we have to go to the **"/compose"** route.  
 If the app is listening to **"localhost:3000"** then the compose route will be **"localhost:3000/compose"**
 
-![Compose page](images/compose.png?raw=true "Title")
+![Compose page](https://github.com/debasishbsws/Blog-Post-Website-Using-Node-js/blob/main/images/compose.png?raw=true "Title")
 
   
     
@@ -43,4 +43,4 @@ If the app is listening to **"localhost:3000"** then the compose route will be *
 - It will be fetch by the Id of the post from the Database
   
   
-![Post page](images/post.png?raw=true "Title")
+![Post page](https://github.com/debasishbsws/Blog-Post-Website-Using-Node-js/blob/main/images/post.png?raw=true "Title")
