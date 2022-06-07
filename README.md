@@ -36,8 +36,7 @@ If the app is listening to **"localhost:3000"** then the compose route will be *
 ![Compose page](https://github.com/debasishbsws/Blog-Post-Website-Using-Node-js/blob/main/images/compose.png?raw=true "Title")
 
   
-    
- ### Post :
+### Post :
  
 - Using **EJS** and **Express routing parameter** a new page will be dinamically render into the screen with corresponding post content.
 - It will be fetch by the Id of the post from the Database
